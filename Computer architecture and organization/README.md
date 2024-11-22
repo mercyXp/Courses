@@ -12,7 +12,7 @@ Understanding computer organization and architecture is fundamental for:
 
 - *`Writing Efficient Code`*: Knowing how hardware handles instructions helps in creating faster, optimized software.
 - *`Building Better Systems`*: From designing processors to constructing networks, this knowledge is key to innovation.
--*`Troubleshooting with Confidence`*: When you understand how a computer works at its core, solving hardware and software issues becomes easier.
+- *`Troubleshooting with Confidence`*: When you understand how a computer works at its core, solving hardware and software issues becomes easier.
 
 ## What Will You Learn?
 This repository will guide you through:
