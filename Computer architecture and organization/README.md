@@ -4,8 +4,8 @@ Welcome to the Computer Organization and Architecture repository! This disciplin
 ## :pushpin: What is Computer Organization and Architecture?
 At its core, this subject explains how computers are built and how they function:
 
-- **'Computer Architecture'**: Think of it as the `blueprint` or high-level design of a computer system. It defines how key components like processors, memory, and storage are structured and interact to process data efficiently. Architecture addresses questions like, How fast can the computer operate? and How much data can it handle?
-- **'Computer Organization'**: This is the `"how-to" `guide for implementing the architecture. It details how these components are physically built and how they operate together, such as how instructions are executed, memory is accessed, and data flows through the system.
+- **Computer Architecture**: Think of it as the `blueprint` or high-level design of a computer system. It defines how key components like processors, memory, and storage are structured and interact to process data efficiently. Architecture addresses questions like, How fast can the computer operate? and How much data can it handle?
+- **Computer Organization**: This is the `"how-to" `guide for implementing the architecture. It details how these components are physically built and how they operate together, such as how instructions are executed, memory is accessed, and data flows through the system.
 
 ## :pushpin: Why is it Important?
 Understanding computer organization and architecture is fundamental for:
