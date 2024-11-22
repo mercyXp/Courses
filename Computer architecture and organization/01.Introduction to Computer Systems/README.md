@@ -1,5 +1,6 @@
 # :bookmark_tabs:Introduction to Computer Systems
 - Chapter 1
+![Image](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/z-images/Com.png)
 ## Objective
 The objective is to understand the factors affecting computing as we know it today and hopefully to forecast the future of computation.
 
@@ -22,5 +23,5 @@ as `special purpose machines`.
 
 ## What you will learn?
 
-![Image](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/z-images/Com.png)
+
 
