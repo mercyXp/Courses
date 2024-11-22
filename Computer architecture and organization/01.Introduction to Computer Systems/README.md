@@ -22,4 +22,5 @@ as `special purpose machines`.
 
 ## What you will learn?
 
+![Image](Computer architecture and organization/z-images/Com.png)
 
