@@ -1,5 +1,5 @@
 # :bookmark_tabs:Introduction to Computer Systems
-- Chapter 1
+<p>Chapter 1</p>
 ![Image](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/z-images/Com.png)
 ## Objective
 The objective is to understand the factors affecting computing as we know it today and hopefully to forecast the future of computation.
