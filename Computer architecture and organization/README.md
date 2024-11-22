@@ -34,4 +34,4 @@ Dive into the exciting world of Computer Organization and Architecture and gain 
 
 *Feel free to explore, contribute, or ask questions—let’s build something amazing together!*<br>
 
-`Happy Coding`
+`Happy Learning!`
