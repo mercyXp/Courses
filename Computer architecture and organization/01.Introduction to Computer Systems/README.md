@@ -22,5 +22,5 @@ as `special purpose machines`.
 
 ## What you will learn?
 
-![![Image](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/z-images/Com.png)
+![Image](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/z-images/Com.png)
 
