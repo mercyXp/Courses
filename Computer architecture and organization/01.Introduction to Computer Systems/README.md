@@ -22,4 +22,4 @@ as `special purpose machines`.
 
 ## What you will learn?
 
-![Alt text](https://github.com/mercyXp/Courses/blob/main/Computer%20architecture%20and%20organization/Com1.png)
+
