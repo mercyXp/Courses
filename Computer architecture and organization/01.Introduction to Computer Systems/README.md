@@ -24,5 +24,5 @@ as `special purpose machines`.
 
 ## What you will learn?
 
-
+- Memory Management
 
