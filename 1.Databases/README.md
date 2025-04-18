@@ -13,4 +13,8 @@ Perequisites: Programming(Python/Java/C++), Discrete Mathematics
 - DBMS vs. File Systems  
 - Relational Model Basics  
 - DBMS Architecture
-
+**Resources**
+-  📖 [Database System Concepts (Silberschatz)](https://www.db-book.com/) (Free PDF)
+- 📜 [TSU Database Course Slides](https://docs.google.com/document/d/1----jHXmbYriDtS3rd1e63pnMnIe2NrC68HIpI-RFAA/edit?tab=t.0)  
+- (https://youtu.be/wR0jg0eQsZA?si=QtEsmXHRBimTHOOG) 
+- 🎥 [Database Tutorial For Beginners]
