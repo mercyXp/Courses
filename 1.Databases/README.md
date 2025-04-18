@@ -9,6 +9,7 @@ Perequisites: Programming(Python/Java/C++), Discrete Mathematics
 
 ### **📌 Week 1: Introduction to Databases** 
 **Concepts:**  
+- Database Definition
 - DBMS vs. File Systems  
 - Relational Model Basics  
 - DBMS Architecture
