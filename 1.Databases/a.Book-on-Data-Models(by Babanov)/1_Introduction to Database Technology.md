@@ -460,6 +460,33 @@ These define the **logical and physical schemas** of the database.
 
 ---
 
+In the final part of the introduction, we announce the material presented to the reader. The structure of the course reflects its logic.
+
+In the chapter "Basic Concepts," we will introduce the key terms of data modeling, define the concept of a "data model," and its components—rules for data structuring, integrity constraints, and a variety of operations on the data. In subsequent chapters, the analysis of specific models will follow the "structure – integrity constraints – operations" schema.
+
+In the chapter "Semantic Data Models," we will explore the ER model and ERM model, as well as the methodology of semantic modeling for the ERM model.
+
+The chapter "DBMS-Oriented Data Models" is almost entirely dedicated to the relational model, which is remarkable in many aspects and widely used today. In the final paragraph of the chapter, we will review the classical methodology for designing relational database schemas. This methodology is distinctive in that it explicitly omits the intermediate representation of the subject area in the form of a semantic schema.
+
+Finally, the essence of the course is presented in the chapter "Semantic Methodology for Designing Relational Database Schemas," which explains how to practically solve the task of designing database schemas. To fully understand this chapter, it will be necessary to use practically all of the previous material from the book, so it is recommended that by this point, you have a solid, consistent system of knowledge on data models.
+
+### Questions and Tasks for Chapter 1
+
+1. What are the distinctive features of database technology that set it apart from other technologies, especially information technologies?
+2. What are the prerequisites for using database technology?
+3. What is the significance of the term "model" in database technology?
+4. What is the main purpose of data models?
+5. List the components of any data model.
+6. What is the purpose of data structures, integrity constraints, and operations on the data?
+7. Identify the main processes in DBMS, and explain who is responsible for which tasks.
+8. What are CASE systems used for?
+9. List and briefly characterize the architectures of DBMS systems.
+10. What are the main differences between OLTP and OLAP DBMS?
+11. What forms of representations of the subject area are distinguished in database technology? Characterize each one.
+
+---
+
+ 
 
 
 > This course will guide you through each of these layers and help you master the skills required to model, design, and implement a database from scratch.
