@@ -1,13 +1,13 @@
-# Database Technology - Chapter 1: TEST YOUR KNOWLEDGE
+# Chapter 1: TEST YOUR KNOWLEDGE
 
-## 1. What are the distinctive features of database technology that set it apart from other technologies, especially information technologies?
+### 1. What are the distinctive features of database technology that set it apart from other technologies, especially information technologies?
 
 <details>
   <summary>Answer</summary>
   - **Database technology** focuses on organizing, storing, managing, and retrieving large amounts of structured data efficiently. It uses systems like DBMS (Database Management Systems) that provide tools for data manipulation, querying, and integrity enforcement. Unlike other technologies, database technology is specifically designed for managing large-scale data with support for concurrent access, data consistency, security, and recovery. It ensures data integrity and reliability, especially when dealing with complex relationships in data.
 </details>
 
-## 2. What are the prerequisites for using database technology?
+### 2. What are the prerequisites for using database technology?
 
 <details>
   <summary>Answer</summary>
@@ -19,21 +19,21 @@
     - **Hardware resources**: A database needs proper hardware for optimal performance and storage.
 </details>
 
-## 3. What is the significance of the term "model" in database technology?
+### 3. What is the significance of the term "model" in database technology?
 
 <details>
   <summary>Answer</summary>
   - In database technology, a **model** refers to an abstract representation of data and the relationships between different data elements. It defines how data is structured, stored, and accessed. The model helps in translating real-world processes and data into a formalized structure that can be managed and queried by a DBMS. Examples include relational models, object-oriented models, and semantic models.
 </details>
 
-## 4. What is the main purpose of data models?
+### 4. What is the main purpose of data models?
 
 <details>
   <summary>Answer</summary>
   - The main purpose of **data models** is to provide a framework for organizing and structuring data in a way that can be efficiently stored, retrieved, and manipulated. Data models ensure that data is consistent, secure, and can be accessed in an organized manner, helping to make the database system scalable and functional.
 </details>
 
-## 5. List the components of any data model.
+### 5. List the components of any data model.
 
 <details>
   <summary>Answer</summary>
@@ -45,7 +45,7 @@
     - **Operations**: Actions that can be performed on the data.
 </details>
 
-## 6. What is the purpose of data structures, integrity constraints, and operations on the data?
+### 6. What is the purpose of data structures, integrity constraints, and operations on the data?
 
 <details>
   <summary>Answer</summary>
@@ -54,7 +54,7 @@
   - **Operations**: These define what actions can be performed on the data, such as inserting, updating, deleting, and querying data.
 </details>
 
-## 7. Identify the main processes in DBMS, and explain who is responsible for which tasks.
+### 7. Identify the main processes in DBMS, and explain who is responsible for which tasks.
 
 <details>
   <summary>Answer</summary>
@@ -66,14 +66,14 @@
     - **Transaction Management**: Ensuring that database operations are atomic, consistent, isolated, and durable (ACID properties). This is handled by the **DBMS**.
 </details>
 
-## 8. What are CASE systems used for?
+### 8. What are CASE systems used for?
 
 <details>
   <summary>Answer</summary>
   - **CASE (Computer-Aided Software Engineering)** systems are tools designed to support the design and development of software applications, including databases. In the context of databases, CASE systems help with database design, data modeling, schema generation, and documentation. They help automate repetitive tasks and improve the consistency and quality of designs.
 </details>
 
-## 9. List and briefly characterize the architectures of DBMS systems.
+### 9. List and briefly characterize the architectures of DBMS systems.
 
 <details>
   <summary>Answer</summary>
@@ -83,7 +83,7 @@
   - **N-tier architecture**: Extends the 3-tier architecture to more layers, allowing even more scalability and flexibility.
 </details>
 
-## 10. What are the main differences between OLTP and OLAP DBMS?
+### 10. What are the main differences between OLTP and OLAP DBMS?
 
 <details>
   <summary>Answer</summary>
@@ -99,7 +99,7 @@
     - Used in systems like business intelligence, data warehouses, etc.
 </details>
 
-## 11. What are the forms of representations of the subject area distinguished in database technology? Characterize each one.
+### 11. What are the forms of representations of the subject area distinguished in database technology? Characterize each one.
 
 <details>
   <summary>Answer</summary>
