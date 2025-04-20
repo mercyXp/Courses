@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 Data Models: Lectures
+# 📘 Data Models
 
 ## Author’s Preface
 
